@@ -1,2 +1,17 @@
-fgeșirulyfș43oireurclp0fhgb89rgjh7b4ktv7 b
-djhgv;reui;
+/*cloning on localhost git clone link to repositor */
+ex:  git clone https://github.com/HCris/test_repositor/
+/******************************************************/
+/*check at change */
+ex: git status
+/*****************************************************/
+/* add chenge */
+ex: git add .
+/*********************************************/
+/* git commit -m "any  text"*/
+/*************************************************/
+/*make push to repozitoriu**/
+ex: git push origin master*/
+/************************************************/
+sinhronisation  of project 
+ex:git pull origin master
+/***********************************************/
